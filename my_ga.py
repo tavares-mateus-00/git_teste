@@ -1,0 +1,1 @@
+print("Meu Primeiro Código de Inteligência Artificial")
