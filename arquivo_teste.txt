@@ -3,3 +3,5 @@ Esse é o primeiro arquivo do curso de Git.
 Aqui o time vai para frente!
 
 Modificando para utilizar o pull.
+
+Primeira modificação realizada no Fedora!
